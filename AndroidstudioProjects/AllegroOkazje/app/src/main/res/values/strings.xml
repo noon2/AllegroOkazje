@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Allegro Okazje</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="cat_add">Dodaj</string>
+    <string name="cat_edit">Edytuj</string>
+    <string name="cat_remove">Usuń</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="search_title">Wyszukaj</string>
+    <string name="sort">Sortowanie</string>
+    <string name="malejaco">Malejąco</string>
+    <string name="rosnaco">Rosnąco</string>
+    <string name="ceny">ceny:</string>
+	<string name="cena_z_dostawa">ceny z dostawą:</string>
+    <string name="czas_do_konca">czasu do końca:</string>
+    <string name="odAdoZ">od A do Z</string>
+    <string name="odZdoA">od Z do A</string>
+    <string name="anuluj">Anuluj</string>
+    <!-- przedmiot list view -->
+    <string name="item_cena_kupteraz">KT</string>
+    <string name="item_cena_z_dostawa">z dostawą</string>
+    <!-- navigation bar -->
+    <string name="dodaj_cel">Dodaj cel</string>
+    <!-- dialog logowanie -->
+    <string name="login">Login</string>
+    <string name="haslo">Hasło</string>
+    <string name="ladowanie">Ładowanie</string>
+    <string name="ladowanie2">Ładowanie...</string> 
+    <string name="brak_wynikow">Brak wyników</string>
+    <string name="pelny_opis">Pełny Opis</string>   
+    <string name="licytuj">Licytuj</string>
+    <string name="kup_teraz">Kup Teraz</string>
+    <string name="cena_kup_teraz">Cena Kup Teraz</string>
+    <!-- dodawanie przedmiotu -->
+    <string name="max">MAX</string>
+    <string name="min">MIN</string>
+    <string name="oferta_typu">Oferta typu:</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="nazwa">Nazwa</string>
+    <string name="nazwa_wyszukiwania">Nazwa wyszukiwania</string>
+    <string name="wybierz_kategorie">Wybierz katerogię</string>
+    <string name="brak">Brak</string>
+    <string name="wszystkie">Wszystkie</string>
+    <string name="licytacje">Licytacje</string>
+    <string name="cena">Cena</string>
+</resources>

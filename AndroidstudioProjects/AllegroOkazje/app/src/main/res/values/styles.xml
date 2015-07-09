@@ -1,0 +1,52 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="MyTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:buttonStyle">@style/MyTheme.Button</item>
+    	<item name="android:actionBarStyle">@style/MyTheme.ActionBar</item>
+    	<item name="android:actionBarTabStyle">@style/MyTheme.ActionBarTab</item>
+    	<item name="android:actionBarItemBackground">@color/actionbar_tab</item>
+    	<item name="android:actionDropDownStyle">@style/MyTheme.DropDown</item>
+        
+    </style>
+    <style name="MyTheme.Button" parent="@android:style/Widget.DeviceDefault.Light.Button">
+        <item name="android:background">@color/button</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="MyTheme.DropDown" parent="@android:style/Widget.DeviceDefault.Light.Spinner">
+	    <item name="android:background">@color/actionbar_tab</item>
+	</style>
+	<style name="MyTheme.ActionBar" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+	    <item name="android:background">@color/actionbar_tab</item>
+	    
+	    <item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+	</style>
+	<style name="MyTheme.ActionBarTab" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+	    <item name="android:background">@color/actionbar_tab</item>
+	    <item name="android:backgroundSplit">@color/grey</item>
+	    <item name="android:gravity">center</item>
+	    <item name="android:textStyle">bold</item>
+	</style>
+	<style name="MyTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+	    <item name="android:textColor">@color/white</item>
+	</style>
+	<style name="MyTheme.Dialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+	    <item name="android:buttonStyle">@style/MyTheme.Button</item>
+	</style>
+
+</resources>

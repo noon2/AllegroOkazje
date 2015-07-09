@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.allegrookazje"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+
+    <permission
+        android:name="com.example.allegrookazje.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.example.allegrookazje.permission.C2D_MESSAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/MyTheme" >
+        <activity
+            android:name="com.allegrookazje.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity android:name="com.allegrookazje.menu.Menu_Activity" >
+        </activity>
+        <activity
+            android:name="com.allegrookazje.add.Add_Cel_Activity"
+            android:label="@string/dodaj_cel" >
+        </activity>
+        <activity
+            android:name="com.allegrookazje.add.Cele_Cats"
+            android:label="Kategoria" >
+        </activity>
+        <activity
+            android:name="com.allegrookazje.item.Lista_Item_View"
+            android:configChanges="orientation|screenSize"
+            android:windowSoftInputMode="adjustResize|adjustPan" >
+        </activity>
+
+        <receiver
+            android:name="com.allegrookazje.GcmBroadcastReceiver"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.example.allegrookazje" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.example.allegrookazje" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.allegrookazje.GcmIntentService" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity android:name="com.allegrookazje.soap.MyWebView" >
+        </activity>
+    </application>
+
+</manifest>

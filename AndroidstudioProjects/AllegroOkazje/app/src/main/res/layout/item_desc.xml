@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingRight="5dp"
+            android:paddingLeft="5dp"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/opis"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <HorizontalScrollView
+                android:id="@+id/hsv_images"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="@color/opis" >
+
+                <LinearLayout
+                    android:id="@+id/ll_images"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal" >
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/opis"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/tv_ending_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_buy"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:background="@color/opis"
+                android:gravity="right" >
+
+                <TextView
+                    android:id="@+id/tv_price_buy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/btn_buy"
+                    android:layout_alignBottom="@+id/btn_buy"
+                    android:layout_toLeftOf="@+id/btn_buy"
+                    android:text="@string/cena_kup_teraz"
+                    android:paddingRight="5dp"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <Button
+                    android:id="@+id/btn_buy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    
+                    android:onClick="kup_teraz"
+                    android:text="@string/kup_teraz" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_bid"
+                android:background="@color/opis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:gravity="right" >
+
+                <Button
+                    android:id="@+id/btn_bid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:onClick="licytuj"
+                    android:text="@string/licytuj" />
+
+                <TextView
+                    android:id="@+id/tv_price_bid"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="5dp"
+                    android:layout_alignBaseline="@+id/btn_bid"
+                    android:layout_alignBottom="@+id/btn_bid"
+                    android:layout_toLeftOf="@+id/btn_bid"
+                    android:onClick="licytuj"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+            </RelativeLayout>
+
+            <WebView
+                android:id="@+id/wv_desc"
+                android:layout_marginTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btn_full_desc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="full_desc"
+        android:text="@string/pelny_opis" />
+
+</LinearLayout>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RadioGroup
+        android:id="@+id/sortowanie_wybor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left" >
+
+        <TextView
+            android:id="@+id/sort_textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:text="@string/ceny"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <RadioButton
+            android:id="@+id/sort_radio0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:checked="true"
+            android:text="@string/rosnaco" />
+
+        <RadioButton
+            android:id="@+id/sort_radio1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="@string/malejaco" />
+
+        <TextView
+            android:id="@+id/sort_textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cena_z_dostawa"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <RadioButton
+            android:id="@+id/sort_radio2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="@string/rosnaco" />
+
+        <RadioButton
+            android:id="@+id/sort_radio3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="@string/malejaco" />
+
+        <TextView
+            android:id="@+id/sort_textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/czas_do_konca"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <RadioButton
+            android:id="@+id/sort_radio4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="@string/rosnaco" />
+
+        <RadioButton
+            android:id="@+id/sort_radio5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="@string/malejaco" />
+
+        <TextView
+            android:id="@+id/sort_textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nazwa"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <RadioButton
+            android:id="@+id/sort_radio6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="@string/odAdoZ" />
+
+        <RadioButton
+            android:id="@+id/sort_radio7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:text="@string/odZdoA" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/v_sort_anuluj"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/anuluj" />
+
+</LinearLayout>

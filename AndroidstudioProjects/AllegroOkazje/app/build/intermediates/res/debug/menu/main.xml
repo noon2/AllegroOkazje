@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.allegrookazje2.MainActivity" >
+
+    <item
+        android:id="@+id/cel_sort"
+        android:icon="@drawable/ic_action_sort_by_size"
+        android:showAsAction="collapseActionView|ifRoom"
+        android:title="@string/sort"
+        android:visible="false"/>
+    <item
+        android:id="@+id/cel_add"
+        android:icon="@drawable/ic_action_new"
+        android:showAsAction="collapseActionView|ifRoom"
+        android:title="@string/cat_add"/>
+    <item
+        android:id="@+id/cel_edit"
+        android:visible="false"
+        android:icon="@drawable/ic_action_edit"
+        android:showAsAction="collapseActionView"
+        android:title="@string/cat_edit"/>
+    <item
+        android:id="@+id/cel_delete"
+        android:visible="false"
+        android:icon="@drawable/ic_action_discard"
+        android:showAsAction="collapseActionView"
+        android:title="@string/cat_remove"/>
+
+</menu><!-- From: file:/C:/Users/admin/AndroidstudioProjects/AllegroOkazje/app/src/main/res/menu/main.xml -->

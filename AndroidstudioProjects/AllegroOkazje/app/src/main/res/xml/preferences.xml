@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/list_selected" >
+
+    <PreferenceCategory
+        android:key="pref_key_storage_settings"
+        android:title="Konto" >
+        <EditTextPreference
+            android:key="et_login"
+            android:persistent="true"
+            android:title="Login" />
+        <EditTextPreference
+            android:key="et_password"
+            android:password="true"
+            android:shouldDisableView="false"
+            android:persistent="false"
+            android:title="Hasło" />
+
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="save_password"
+            android:persistent="true"
+            android:title="Zapisz hasło" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Powiadomienie" >
+        <CheckBoxPreference
+            android:title="Wibracje"
+            android:defaultValue="true"
+            android:key="cbp_vibration"
+            />
+        <CheckBoxPreference
+            android:title="Dźwięk"
+            android:defaultValue="false"
+            android:key="cbp_sound"
+            />
+        <RingtonePreference
+            android:title="Wybierz dźwięk"
+            android:key="rp_ringtone"
+            android:ringtoneType="all"
+            />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Inne" >
+        <Preference
+            android:key="btn_category"
+            android:title="Aktualizacja kategorii" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

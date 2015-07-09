@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-ef5e1f1c088b990d157881c66c3364afda5dcba0.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-1f3fee5f90f9e7bd2854c08f1fae0c1b649d08c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-da50505b8e70b701f611d8de42913964864f3aa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-2b40aa4c81ead2721cc42d25f88bcb9d3ce43aa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-b95a3b601a9a5533365429984362849881c6a3e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-8c10e8117867d4639909a4a2d2c07cd439c76108.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-c79b4546aeeec05bd0488adccc9f1cae7188bdb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-1e6f480ef4b4ac4c21d2c273bc2af9ea4f3fc80d.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-2bab86322505c9949e322835e3c1ede3d247c88e.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-1e6f480ef4b4ac4c21d2c273bc2af9ea4f3fc80d.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\libs\ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="62681b8212ca52278feafec31775fd0cb096d99a">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.3.0-jar-with-dependencies-6d6439ce83b5dde9f81102829b1f0515b71c08a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-2a663ff096a033b04a84a27e332c95f8dad01985.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-74d63998a06e96817ec0675ddb322e50e8846d9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-9a5983520764716e8a72cbe2f80d083aabe4f206.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-f97f2d0c0f85e348058c5f9a9986a1bb48ca97c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-6e10c126882af3c1713d10a888259ca5281e046d.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-8c10e8117867d4639909a4a2d2c07cd439c76108.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-d097ed123c75cdcfdfb296573e65de745651c1df.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-036d4f6abf1af3a69bdd91c577da918ead884ec2.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-2fa75e55cda3eaf16b41f7e90c1b40b4c5966864.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-1f3fee5f90f9e7bd2854c08f1fae0c1b649d08c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-2fa75e55cda3eaf16b41f7e90c1b40b4c5966864.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-f97f2d0c0f85e348058c5f9a9986a1bb48ca97c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-2bab86322505c9949e322835e3c1ede3d247c88e.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-6a887432b88a8ba9554f9acdb4a28221ab2134d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-7e6f3654a35ea456687ee2287e77234b077728c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-7faab4bc06bdcd74603b8c589f703b92533f9ecc.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-2a663ff096a033b04a84a27e332c95f8dad01985.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-ef5e1f1c088b990d157881c66c3364afda5dcba0.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-036d4f6abf1af3a69bdd91c577da918ead884ec2.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-02ee71060ad564d5e3a956b8eb0eec764e4e6773.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-da50505b8e70b701f611d8de42913964864f3aa6.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-f7b763b70295b7f9ca766efba2a5a02476719710.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-6e10c126882af3c1713d10a888259ca5281e046d.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-9a5983520764716e8a72cbe2f80d083aabe4f206.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-267bea48f2048d84ecca9d3968f5479e701ce1d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-7d8d69b710d7b4529c852291da46dd11787eb671.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-b95a3b601a9a5533365429984362849881c6a3e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-c79b4546aeeec05bd0488adccc9f1cae7188bdb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-2b40aa4c81ead2721cc42d25f88bcb9d3ce43aa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-7d8d69b710d7b4529c852291da46dd11787eb671.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-63a32986c7b35d7e376b1d4d754e0e0e3cf42d15.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-74d63998a06e96817ec0675ddb322e50e8846d9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-6a887432b88a8ba9554f9acdb4a28221ab2134d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-f7b763b70295b7f9ca766efba2a5a02476719710.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-7faab4bc06bdcd74603b8c589f703b92533f9ecc.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-7e6f3654a35ea456687ee2287e77234b077728c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\libs\ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="62681b8212ca52278feafec31775fd0cb096d99a">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.3.0-jar-with-dependencies-6d6439ce83b5dde9f81102829b1f0515b71c08a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-267bea48f2048d84ecca9d3968f5479e701ce1d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-02ee71060ad564d5e3a956b8eb0eec764e4e6773.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-d097ed123c75cdcfdfb296573e65de745651c1df.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-b1ebf9d1997bab2741e0a5c4de1ecca12309522a.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\classes-b1ebf9d1997bab2741e0a5c4de1ecca12309522a.jar" />
+    </item>
+    <item
+        jar="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\admin\AndroidstudioProjects\AllegroOkazje\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-63a32986c7b35d7e376b1d4d754e0e0e3cf42d15.jar" />
+    </item>
+
+</items>

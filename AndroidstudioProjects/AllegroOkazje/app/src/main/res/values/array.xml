@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="country">
+        <item>Polska</item>
+        <item>United Kingdom</item>
+        <item>Switzerland</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+    </string-array>
+    <string-array name="language">
+        <item >Polski</item>
+        <item >Angielski</item>
+    </string-array>
+
+</resources>

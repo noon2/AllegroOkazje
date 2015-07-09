@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#ff5a00</color>
+    <color name="orange_click">#ff8b4c</color>
+    <color name="orange_trans">#0F282828</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="yellow">#ffff99</color>
+    <color name="yellow_click">#ffff00</color>
+    <color name="trans">#BF282828</color>
+    <color name="grey">#282828</color>
+    <color name="full_trans">#FFFFFFFF</color>
+    <color name="opis">#ffffff</color>
+</resources>

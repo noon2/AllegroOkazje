@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/orange" android:state_activated="true"/>
+    <item android:drawable="@color/orange" android:state_selected="true"/>
+    <item android:drawable="@color/orange" android:state_pressed="true"/>
+    <item android:drawable="@android:color/white" android:state_focused="true"></item>
+    <item android:drawable="@color/grey"/>
+
+</selector><!-- From: file:/C:/Users/admin/AndroidstudioProjects/AllegroOkazje/app/src/main/res/color/actionbar_tab.xml -->
